@@ -6,7 +6,10 @@
 
 - Hi, I'm **Frontend Developer (React.js) - Fresher**
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
+- <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-book-open">
+  <path d="M2 4v16c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V4"></path>
+  <path d="M2 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2"></path>
+</svg>  I’m currently learning **Node.js, MongoDB**
 
 - 👯 I’m looking to collaborate on **Frontend development projects using React.js, Tailwind CSS, and other modern web technologies.**
 
