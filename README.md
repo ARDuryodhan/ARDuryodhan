@@ -35,7 +35,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arduryodhan&show_icons=true&locale=en&layout=compact" alt="arduryodhan" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arduryodhan&" alt="arduryodhan" /></p>
 </div>
-<div class="flex">
+<div>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arduryodhan&show_icons=true&locale=en" alt="arduryodhan" /></p>
   [![ARDuryodhan's GitHub | Stats](https://stats.quira.sh/ARDuryodhan/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ARDuryodhan)
 </div>
