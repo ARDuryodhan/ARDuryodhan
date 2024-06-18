@@ -37,8 +37,8 @@
 </div>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arduryodhan&show_icons=true&locale=en" alt="arduryodhan" /></p>
+
+
+
  [![ARDuryodhan's GitHub | Stats](https://stats.quira.sh/ARDuryodhan/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ARDuryodhan)
-
-
-
 [![ARDuryodhan's GitHub | Languages Over Time](https://stats.quira.sh/ARDuryodhan/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ARDuryodhan)
