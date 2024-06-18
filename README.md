@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Duryodhan</h1>
 <h3 align="center">Passionate and Adaptable Developer with Experience in React.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arduryodhan&label=Profile%20views&color=0e75b6&style=flat" alt="arduryodhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arduryodhan" alt="arduryodhan" /></a> </p>
-
 - Hi, I'm **Frontend Developer (React.js) - Fresher**
 
 - 🌱 I’m currently learning **Node.js, MongoDB**
